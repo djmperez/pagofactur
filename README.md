@@ -1,1 +1,1 @@
-# pagofactur
+# Proyecto - Pagos a Proveedores. Operaciones Descentralizadas
